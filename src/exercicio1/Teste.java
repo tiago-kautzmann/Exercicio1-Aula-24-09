@@ -6,7 +6,9 @@ public class Teste {
     public static void main(String[] args) throws InterruptedException {
 
         System.out.println("******************");
+        System.out.println("******************");
         System.out.println("****TEMP v 1.0****");
+        System.out.println("******************");
         System.out.println("******************");
 
         Scanner scanner = new Scanner(System.in);
