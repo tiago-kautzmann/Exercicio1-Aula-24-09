@@ -7,7 +7,7 @@ public class Teste {
 
         System.out.println("******************");
         System.out.println("******************");
-        System.out.println("****TEMP v1.0*****");
+        System.out.println("****TEMP v 1.0****");
         System.out.println("******************");
         System.out.println("******************");
 
